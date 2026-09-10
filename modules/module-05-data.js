@@ -75,7 +75,7 @@ window.WRITTEN_QUESTIONS = [
     ],
     scaffold: ["I was the... and my classmate was the...", "The specific feedback I gave was...", "The specific feedback I received was...", "Because of that feedback, I...", "I checked the result by..."],
     prompts: ["Name both roles without using a full name.", "Give a specific, observable comment.", "Record the feedback you received accurately.", "State one change made or planned.", "Name the check, photograph or result that shows the effect."],
-    model: "I was the maker first and my classmate was the reviewer; we then swapped roles. The specific feedback I gave was that one end profile looked less even when viewed from the front, so it should be compared with the plan before any more material was removed. The feedback I received was that a small area near one joint still showed glue under strong light. I used roles rather than my classmate's full name to protect privacy."
+    model: "I was the maker first and my classmate was the reviewer; we then swapped roles. The specific feedback I gave was that one end profile looked less even when viewed from the front, so it should be compared with the plan before any more material was removed. The feedback I received was that a small area near one joint still showed glue under strong light. Because of that feedback, I changed my next step: I asked the teacher to inspect that area and agree on a correction before I continued to finishing. After the authorised correction, I checked the same area under the same light and compared before-and-after photographs. The later image showed that the visible glue had been removed. I used roles rather than my classmate's full name to protect privacy."
   },
   {
     title: "2. Write an evidence-based final evaluation",
