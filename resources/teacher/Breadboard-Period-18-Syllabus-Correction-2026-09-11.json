@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-11",
+  "period": 18,
+  "scope": "Correction of the active period 18 syllabus mapping only. Teaching, practical authority, evidence requirements and all other periods are unchanged.",
+  "lesson": "modules/module-04.html#theory-3",
+  "lesson_title": "Responsible material use, finishing waste and sustainability",
+  "previous_mapping": {
+    "plain_english": "Accurate measuring and marking-out for timber projects",
+    "content_item_id": "cia5a4382a",
+    "exact_official_content": "Select and use a range of marking-out tools, processes and equipment to accurately measure and mark out materials when making timber projects",
+    "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/content/stage-5/fa0e95d80e",
+    "outcome_codes": [
+      "INT5-PRO-01",
+      "INT5-INP-01",
+      "INT5-USE-01"
+    ],
+    "family_coverage_number": 50,
+    "allocation_relationship": "legacy-source-retained",
+    "allocation_source_id": "L2"
+  },
+  "official_source": {
+    "url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/content/stage-5/fa0e95d80e",
+    "retrieved_date": "2026-09-11",
+    "response_sha256": "6dd80f722a83b7e827ca923969b7ec52d1a8ab7118a68d4ffc947f094b9b2b4b",
+    "focus_area_id": "fa0e95d80e",
+    "focus_area": "Timber industry specialisation",
+    "content_group_id": "cg7f63142d",
+    "content_group": "Materials and resources",
+    "content_item_id": "ci37fec2d6",
+    "exact_official_content": "Investigate sustainable practices in the timber industry",
+    "official_outcomes": [
+      {
+        "code": "INT5-ENV-01",
+        "exact_official_wording": "assesses the impact of industrial activities and practices on society and the environment",
+        "official_item_id": "oc1ce9eab1"
+      },
+      {
+        "code": "INT5-USE-01",
+        "exact_official_wording": "selects and justifies the use of materials, tools and equipment to undertake projects",
+        "official_item_id": "occadcefd9"
+      }
+    ]
+  },
+  "local_lesson_alignment": {
+    "outcome_codes": [
+      "INT5-ENV-01",
+      "INT5-USE-01"
+    ],
+    "rationale": "The lesson addresses responsible use of materials, minimising finishing waste, approved finish selection and safe waste handling. ENV addresses environmental impact; USE addresses justified material and equipment choices. This pairing is a local lesson alignment, not an assertion that NESA assigns these two outcomes exclusively to this content item."
+  },
+  "allocation_boundary": "The previously cited family coverage and allocation records were not available for re-verification. No family coverage number or scheduled-core allocation is asserted for this corrected row. The inherited family records and other periods remain unchanged; the teacher/faculty should reconcile this local correction when next updating the family allocation.",
+  "historical_preservation": "Earlier v1.0 and v2.0 programme files are retained unchanged. The previous period 18 mapping is retained in this correction record."
+}
